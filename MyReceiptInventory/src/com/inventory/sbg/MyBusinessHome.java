@@ -43,7 +43,7 @@ public class MyBusinessHome extends JFrame{
 		
 		
 
-		// menu bar and items
+		// menu bar and items variab;es
 		JMenuBar mBar = new JMenuBar();
 		JMenu menu = new JMenu("File");
 		menu.setMnemonic(KeyEvent.VK_F);
